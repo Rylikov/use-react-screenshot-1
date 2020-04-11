@@ -53,10 +53,8 @@ export default () => {
 }
 ```
 
-## License
 
-MIT © [vre2h](https://github.com/vre2h)
 
 ---
 
-This hook is created using [create-react-hook](https://github.com/hermanya/create-react-hook).
+
