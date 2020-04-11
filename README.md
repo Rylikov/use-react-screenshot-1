@@ -18,9 +18,7 @@ To install `peerDependencies` run:
 npm install --save react html2canvas
 ```
 
-## Examples
 
-See this [codesandbox playground](https://codesandbox.io/s/react-screenshot-hook-2jdyt) or `/example` folder if you want to play with hook.
 
 ## Usage
 
